@@ -14,8 +14,8 @@ Test Set : [![Static Badge](https://img.shields.io/badge/Testset-red?style=for-t
 ### Using Dataset on jupyter notebook
 on the step 3 of the code file you can easily use the dataset like importing this code:
 ```sh
-train_set_url = "https://raw.githubusercontent.com/AsadiAhmad/Loan-Prediction-SVM/refs/heads/main/Dataset/train.csv"
-test_set_url = "https://raw.githubusercontent.com/AsadiAhmad/Loan-Prediction-SVM/refs/heads/main/Dataset/test.csv"
+train_set_url = "https://raw.githubusercontent.com/AsadiAhmad/Titanic-Survivors/refs/heads/main/Dataset/train.csv"
+test_set_url = "https://raw.githubusercontent.com/AsadiAhmad/Titanic-Survivors/refs/heads/main/Dataset/test.csv"
 
 pd.set_option('display.max_rows', None)
 
